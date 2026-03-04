@@ -1,7 +1,7 @@
 # Breast Cancer Prediction Model
 
 ## Overview
-This project applies machine learning to classify breast cancer tumors as malignant or benign using clinical diagnostic features.
+I'mThis project applies machine learning to classify breast cancer tumors as malignant or benign using clinical diagnostic features.
 
 ## Methods
 - Data preprocessing
